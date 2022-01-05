@@ -30,6 +30,12 @@ steps:
     projects: '**/*.csproj'
     feedsToUse: 'select'
 
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '2.1.x'
+    includePreviewVersions: true
+
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
