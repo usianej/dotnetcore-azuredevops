@@ -24,3 +24,5 @@ C:\projects\DotnetCoreCICD\obj\Debug\net6.0\DotnetCoreCICD.dll
 C:\projects\DotnetCoreCICD\obj\Debug\net6.0\ref\DotnetCoreCICD.dll
 C:\projects\DotnetCoreCICD\obj\Debug\net6.0\DotnetCoreCICD.pdb
 C:\projects\DotnetCoreCICD\obj\Debug\net6.0\DotnetCoreCICD.genruntimeconfig.cache
+C:\projects\DotnetCoreCICD\bin\Debug\net6.0\NetCoreTesting.Tests\obj\NetCoreTesting.Tests.csproj.nuget.dgspec.json
+C:\projects\DotnetCoreCICD\bin\Debug\net6.0\NetCoreTesting.Tests\obj\project.assets.json
