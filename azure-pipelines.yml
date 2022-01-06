@@ -39,7 +39,7 @@ steps:
     arguments: '--configuration $(BuildConfiguration)'
 
 - task: DotNetCoreCLI@2
-  displayName: Test
+  displayName: Publish
   inputs:
     command: 'publish'
     publishWebProjects: true
