@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj": {}
+    "c:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj": {}
   },
   "projects": {
-    "C:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj": {
+    "c:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj",
+        "projectUniqueName": "c:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj",
         "projectName": "DotnetCoreCICD",
-        "projectPath": "C:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj",
+        "projectPath": "c:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\DotnetCoreCICD\\obj\\",
+        "outputPath": "c:\\projects\\DotnetCoreCICD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

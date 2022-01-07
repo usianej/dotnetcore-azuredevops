@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUN0PKgEI+BDcP80jvvFpvMOrAR+g9P5Ld47c9I3gfwrRRdshLRxEpA7jfFA206VDZmqpg3aTNBBpQ86QXILqw==",
+  "dgSpecHash": "6noGiyQ9jZvbp+FbBs4J4QROgYBq3WbDQCQjJAAgnaFMPNjYTqaWEKKq7eYyLBo8i0nLDKOx7GCunzuabrln3A==",
   "success": true,
-  "projectFilePath": "C:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj",
+  "projectFilePath": "c:\\projects\\DotnetCoreCICD\\DotnetCoreCICD.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
